@@ -13,7 +13,7 @@ a dashboard to show the information I found.</p>
 
 ## **What was the return in my portfolio?**
 
-To find out the return in my portfolio I had to get the amount of shares I had and the original cost of each stock. Then I could multiply the amount of shares to the stock price now. The current value of a stock minus the original gave me the amount the stock changed and if it was a gain or a loss.
+To find out the return in my portfolio I had to get the amount of shares I had and the original cost of each stock. Then I could multiply the amount of shares to the stock price now. The current value of a stock minus the original stock price gave me the amount the stock changed and if it was a gain or a loss.
 
 ![Stocks owned](image_files/stocks_owned.png)
 
