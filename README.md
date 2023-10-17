@@ -35,7 +35,7 @@ In our dashboard we can see how much we invested and what the return was. We can
 <br></br>
 ![Dashboard](image_files/Dashboard.png)
 
-## You can download the [here](https://github.com/Luil0/Excel_stock_portfolio/raw/main/stock_portfolio.xlsx)
+## You can download the Excel file [here](https://github.com/Luil0/Excel_stock_portfolio/raw/main/stock_portfolio.xlsx)
 
 
 
